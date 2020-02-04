@@ -1,2 +1,3 @@
 # Image Gallery
-# Made by basic HTML and CSS
+
+### Simple Web Page made by basic HTML and CSS
